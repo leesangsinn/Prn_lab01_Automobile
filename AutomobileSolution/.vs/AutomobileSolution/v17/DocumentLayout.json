@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN_Lab_01_AutomobileManager\\AutomobileSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{933A7862-5530-4D81-A999-143C5BD39D86}|AutomobileWinApp\\AutomobileWinApp.csproj|d:\\prn_lab_01_automobilemanager\\automobilesolution\\automobilewinapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933A7862-5530-4D81-A999-143C5BD39D86}|AutomobileWinApp\\AutomobileWinApp.csproj|solutionrelative:automobilewinapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722A9B05-281E-4182-B599-280DBA539E3B}|AutomobileLibrary\\AutomobileLibrary.csproj|d:\\prn_lab_01_automobilemanager\\automobilesolution\\automobilelibrary\\repository\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722A9B05-281E-4182-B599-280DBA539E3B}|AutomobileLibrary\\AutomobileLibrary.csproj|solutionrelative:automobilelibrary\\repository\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722A9B05-281E-4182-B599-280DBA539E3B}|AutomobileLibrary\\AutomobileLibrary.csproj|d:\\prn_lab_01_automobilemanager\\automobilesolution\\automobilelibrary\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722A9B05-281E-4182-B599-280DBA539E3B}|AutomobileLibrary\\AutomobileLibrary.csproj|solutionrelative:automobilelibrary\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722A9B05-281E-4182-B599-280DBA539E3B}|AutomobileLibrary\\AutomobileLibrary.csproj|d:\\prn_lab_01_automobilemanager\\automobilesolution\\automobilelibrary\\dataaccess\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722A9B05-281E-4182-B599-280DBA539E3B}|AutomobileLibrary\\AutomobileLibrary.csproj|solutionrelative:automobilelibrary\\dataaccess\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722A9B05-281E-4182-B599-280DBA539E3B}|AutomobileLibrary\\AutomobileLibrary.csproj|d:\\prn_lab_01_automobilemanager\\automobilesolution\\automobilelibrary\\bussinessobject\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722A9B05-281E-4182-B599-280DBA539E3B}|AutomobileLibrary\\AutomobileLibrary.csproj|solutionrelative:automobilelibrary\\bussinessobject\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933A7862-5530-4D81-A999-143C5BD39D86}|AutomobileWinApp\\AutomobileWinApp.csproj|D:\\PRN_Lab_01_AutomobileManager\\AutomobileSolution\\automobilewinapp\\frmcardetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{933A7862-5530-4D81-A999-143C5BD39D86}|AutomobileWinApp\\AutomobileWinApp.csproj|solutionrelative:automobilewinapp\\frmcardetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933A7862-5530-4D81-A999-143C5BD39D86}|AutomobileWinApp\\AutomobileWinApp.csproj|D:\\PRN_Lab_01_AutomobileManager\\AutomobileSolution\\automobilewinapp\\frmcarmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{933A7862-5530-4D81-A999-143C5BD39D86}|AutomobileWinApp\\AutomobileWinApp.csproj|solutionrelative:automobilewinapp\\frmcarmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933A7862-5530-4D81-A999-143C5BD39D86}|AutomobileWinApp\\AutomobileWinApp.csproj|d:\\prn_lab_01_automobilemanager\\automobilesolution\\automobilewinapp\\frmcardetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933A7862-5530-4D81-A999-143C5BD39D86}|AutomobileWinApp\\AutomobileWinApp.csproj|solutionrelative:automobilewinapp\\frmcardetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933A7862-5530-4D81-A999-143C5BD39D86}|AutomobileWinApp\\AutomobileWinApp.csproj|d:\\prn_lab_01_automobilemanager\\automobilesolution\\automobilewinapp\\frmcarmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933A7862-5530-4D81-A999-143C5BD39D86}|AutomobileWinApp\\AutomobileWinApp.csproj|solutionrelative:automobilewinapp\\frmcarmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933A7862-5530-4D81-A999-143C5BD39D86}|AutomobileWinApp\\AutomobileWinApp.csproj|d:\\prn_lab_01_automobilemanager\\automobilesolution\\automobilewinapp\\frmcarmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933A7862-5530-4D81-A999-143C5BD39D86}|AutomobileWinApp\\AutomobileWinApp.csproj|solutionrelative:automobilewinapp\\frmcarmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "D:\\PRN_Lab_01_AutomobileManager\\AutomobileSolution\\AutomobileLibrary\\Repository\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "AutomobileLibrary\\Repository\\ICarRepository.cs",
+              "ToolTip": "D:\\PRN_Lab_01_AutomobileManager\\AutomobileSolution\\AutomobileLibrary\\Repository\\ICarRepository.cs",
+              "RelativeToolTip": "AutomobileLibrary\\Repository\\ICarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:27:43.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "D:\\PRN_Lab_01_AutomobileManager\\AutomobileSolution\\AutomobileLibrary\\Repository\\CarRepository.cs",
+              "RelativeDocumentMoniker": "AutomobileLibrary\\Repository\\CarRepository.cs",
+              "ToolTip": "D:\\PRN_Lab_01_AutomobileManager\\AutomobileSolution\\AutomobileLibrary\\Repository\\CarRepository.cs",
+              "RelativeToolTip": "AutomobileLibrary\\Repository\\CarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:27:42.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarDBContext.cs",
+              "DocumentMoniker": "D:\\PRN_Lab_01_AutomobileManager\\AutomobileSolution\\AutomobileLibrary\\DataAccess\\CarDBContext.cs",
+              "RelativeDocumentMoniker": "AutomobileLibrary\\DataAccess\\CarDBContext.cs",
+              "ToolTip": "D:\\PRN_Lab_01_AutomobileManager\\AutomobileSolution\\AutomobileLibrary\\DataAccess\\CarDBContext.cs",
+              "RelativeToolTip": "AutomobileLibrary\\DataAccess\\CarDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:27:40.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\PRN_Lab_01_AutomobileManager\\AutomobileSolution\\AutomobileLibrary\\BussinessObject\\Car.cs",
+              "RelativeDocumentMoniker": "AutomobileLibrary\\BussinessObject\\Car.cs",
+              "ToolTip": "D:\\PRN_Lab_01_AutomobileManager\\AutomobileSolution\\AutomobileLibrary\\BussinessObject\\Car.cs",
+              "RelativeToolTip": "AutomobileLibrary\\BussinessObject\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:27:37.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN_Lab_01_AutomobileManager\\AutomobileSolution\\AutomobileWinApp\\Program.cs",
+              "RelativeDocumentMoniker": "AutomobileWinApp\\Program.cs",
+              "ToolTip": "D:\\PRN_Lab_01_AutomobileManager\\AutomobileSolution\\AutomobileWinApp\\Program.cs",
+              "RelativeToolTip": "AutomobileWinApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:16:49.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmCarDetails.cs",
+              "DocumentMoniker": "D:\\PRN_Lab_01_AutomobileManager\\AutomobileSolution\\AutomobileWinApp\\frmCarDetails.cs",
+              "RelativeDocumentMoniker": "AutomobileWinApp\\frmCarDetails.cs",
+              "ToolTip": "D:\\PRN_Lab_01_AutomobileManager\\AutomobileSolution\\AutomobileWinApp\\frmCarDetails.cs",
+              "RelativeToolTip": "AutomobileWinApp\\frmCarDetails.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwDcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:14:23.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmCarDetails.cs [Design]",
+              "DocumentMoniker": "D:\\PRN_Lab_01_AutomobileManager\\AutomobileSolution\\AutomobileWinApp\\frmCarDetails.cs",
+              "RelativeDocumentMoniker": "AutomobileWinApp\\frmCarDetails.cs",
+              "ToolTip": "D:\\PRN_Lab1_AutomobileSolution-main\\AutomobileSolution\\AutomobileWinApp\\frmCarDetails.cs [Design]",
+              "RelativeToolTip": "..\\..\\PRN_Lab1_AutomobileSolution-main\\AutomobileSolution\\AutomobileWinApp\\frmCarDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:04:14.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmCarManagement.cs [Design]",
+              "DocumentMoniker": "D:\\PRN_Lab_01_AutomobileManager\\AutomobileSolution\\AutomobileWinApp\\frmCarManagement.cs",
+              "RelativeDocumentMoniker": "AutomobileWinApp\\frmCarManagement.cs",
+              "ToolTip": "D:\\PRN_Lab1_AutomobileSolution-main\\AutomobileSolution\\AutomobileWinApp\\frmCarManagement.cs [Design]",
+              "RelativeToolTip": "..\\..\\PRN_Lab1_AutomobileSolution-main\\AutomobileSolution\\AutomobileWinApp\\frmCarManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:11:33.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmCarManagement.cs",
+              "DocumentMoniker": "D:\\PRN_Lab_01_AutomobileManager\\AutomobileSolution\\AutomobileWinApp\\frmCarManagement.cs",
+              "RelativeDocumentMoniker": "AutomobileWinApp\\frmCarManagement.cs",
+              "ToolTip": "D:\\PRN_Lab_01_AutomobileManager\\AutomobileSolution\\AutomobileWinApp\\frmCarManagement.cs",
+              "RelativeToolTip": "AutomobileWinApp\\frmCarManagement.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAawBYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:10:16.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmCarManagement.Designer.cs",
+              "DocumentMoniker": "D:\\PRN_Lab_01_AutomobileManager\\AutomobileSolution\\AutomobileWinApp\\frmCarManagement.Designer.cs",
+              "RelativeDocumentMoniker": "AutomobileWinApp\\frmCarManagement.Designer.cs",
+              "ToolTip": "D:\\PRN_Lab_01_AutomobileManager\\AutomobileSolution\\AutomobileWinApp\\frmCarManagement.Designer.cs",
+              "RelativeToolTip": "AutomobileWinApp\\frmCarManagement.Designer.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAIAwwKoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:10:23.392Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
